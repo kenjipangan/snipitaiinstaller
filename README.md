@@ -1,0 +1,2 @@
+# snipitaiinstaller
+snipitaiinstaller
